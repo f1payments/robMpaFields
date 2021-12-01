@@ -1,28 +1,27 @@
-Field
+Field Name
 
 
-Relationship ID
+Relationship ID Referral
 Representative Name
 Representative Number
 Authorizaiton Platform
-Referral Partner Number
+Partner Number
 Referral Partner Name
 Doing Business As (DBA) Name
 Descriptor
-Telephone Number
-Fax Number
 Business Street Address
 City
 State
 ZIP Code
+Telephone Number
+Fax Number
+Contact - Full Name
+Contact - Email Address
 Merchant Website (URL)
-Type of Products/Services Sold
-Years of Operations
-Legal Business Name (if different from above)
-Taxpayer Identification Number
-Primary Contact Name
-Primary Contact Email Address
-Billing Street Address (if different from above)
+Legal Business Name (if different from DBA)
+Taxpayer Identification Number (EIN)
+Established Year
+Billing Street Address (if different from DBA)
 City
 State
 ZIP Code
@@ -35,34 +34,33 @@ Organizational Structure - Government/Municipality
 Public Company
 Stock Symbol
 Market
-Are you a seasonal business? (yes)
-Are you a seasonal business? (no)
-If yes, what are the months of operation of your business? (JAN)
-If yes, what are the months of operation of your business? (FEB)
-If yes, what are the months of operation of your business? (MAR)
-If yes, what are the months of operation of your business? (APR)
-If yes, what are the months of operation of your business? (MAY)
-If yes, what are the months of operation of your business? (JUN)
-If yes, what are the months of operation of your business? (JUL)
-If yes, what are the months of operation of your business? (AUG)
-If yes, what are the months of operation of your business? (SEP)
-If yes, what are the months of operation of your business? (OCT)
-If yes, what are the months of operation of your business? (NOV)
-If yes, what are the months of operation of your business? (DEC)
-Annual Total Volume
-AMEX OptBlue Monthly Porcessing volume
+Type of Products/Services Sold
+Monthly Total Processing Volume
+Monthly Amex Porcessing volume
 Average Transaction Amount
 Highest Transaction Amount
-Average Monthly Volume
-Highest Monthly Volume
-EMV/Card Present Swiped (%)
-Telephone Order (%)
-eCommerce (%)
+Seasonal business?
+EMV/Card Present Swiped  % +
+Telephone Order  % +
+eCommerce  = 100%
+If yes, what are the months of operation of your business? JAN
+If yes, what are the months of operation of your business? FEB
+If yes, what are the months of operation of your business? MAR
+If yes, what are the months of operation of your business? APR
+If yes, what are the months of operation of your business? MAY
+If yes, what are the months of operation of your business? JUN
+If yes, what are the months of operation of your business? JUL
+If yes, what are the months of operation of your business? AUG
+If yes, what are the months of operation of your business? SEP
+If yes, what are the months of operation of your business? OCT
+If yes, what are the months of operation of your business? NOV
+If yes, what are the months of operation of your business? DEC
+
 First Name
 Last Name
 Date of Birth
 SSN
-Ownership %
+Ownership (%)*
 Home Street Address
 City
 State
@@ -74,7 +72,7 @@ First Name
 Last Name
 Date of Birth
 SSN
-Ownership %
+Ownership (%) (1)
 Home Street Address
 City
 State
@@ -82,120 +80,98 @@ Zip Code
 Email Address
 Business Phone Number
 Mobile Number
+
+Bank Name
 Name on Bank Account
-Transit (ABA Routing) Number
+ABA Routing Number
 Account Number (Credits & Debits)
-Name on Bank Account (Debits only, if applicable)
-Transit (ABA Routing) Number (Debits only, if applicable)
-Account Number (Debits only, if applicable)
+Bank Name (debits only)
+Name on Bank Account (debits only)
+ABA Routing Number (debits only)
+Account Number (debits only)
 Funding choices - Standard
 Funding choices - Next Day Funding
-Funding choices - Next Day Funding (per month)
-Funding choices - Same Day Money Express
-Funding choices - Same Day Money Express (per month)
-Visa Cards
-MasterCard Cards
-Discover Cards
-American Express OptBlue
-Debit Cards ONLY
-Pin Debit
-EBT Electronic Benefits Transfer
+Funding choices - Per Month
 
-American Express Retained/ESA
-Existing AMEX Merchant Number
-Per Transaction (American Express retained/ESA)
-FNS Number
-Per Transaction (Electronic Benefits Transfer)
-Per Transaction (PIN-based Debit Pricing)
-Additional Discount %
-Debit Monthly Access
-Existing WEX Merchant Number
-Per Transaction (WrightExpress)
-AMEX OptBlue Opt Out
+Visa
+Mastercard
+Discover Cards
+Amex OptBlue
+Debit ONLY
+Electronic Benefits Transfer
+Amex (Retained/ESA)
+FNS / EBT Number
+Amex Number
+
 Interchange Plus Pricing
-Interchange Plus Rate
 Visa/MC Rate
 Amex Rate
 Discover Rate
-Interchange Plus Authorization
+Bundled Pricing
 Visa/MC Authorization
 Amex Authorization
 Discover Authorization
-Tiered Rate
-Tiered Rate Visa/MC
-Visa/MC Rate Qualified1:
-Visa/MC Rate Mid-Qualified2:
-Visa/MC Rate Non-Qualified4:
-Visa/MC Rate Regulated Check Card
-Visa/MC Rate Unregulated Check Card
+PIN-based Debit Pricing
+Per Transaction
+Additional Discount (%)
+Debit Monthly Access
+Tiered Rates
+Visa/MC
+Qualified Rate
+Qualified Rate $
+Mid Qualified Rate
+Mid Qualified Rate
+Non-Qualified Rate
+Non-Qualified Rate
+Regulated Check Card
+Regulated Check Card
+Unregulated Check Card
+Unregulated Check Card
 Tiered Rate Amex
- Qualified1:
- Mid-Qualified2:
- Non-Qualified4:
- Regulated Check Card
- Unregulated Check Card
+Qualified Rate
+Qualified Rate
+Mid Qualified Rate
+Mid Qualified Rate
+Non-Qualified Rate
+Non-Qualified Rate
+Regulated Check Card
+Regulated Check Card
+Unregulated Check Card
+Unregulated Check Card
 Tiered Rate Discover
-Qualified1:
-Mid-Qualified2:
-Non-Qualified4:
+Qualified Rate
+Qualified Rate
+Mid Qualified Rate
+Mid Qualified Rate
+Non-Qualified Rate
+Non-Qualified Rate
+Regulated Check Card
 Regulated Check Card
 Unregulated Check Card
-Tiered Rate DEBIT
-Qualified1:
-Mid-Qualified2:
-Non-Qualified4:
-Regulated
-Unregulated
-Tiered Authorization Visa/MC
-Qualified1:
-Mid-Qualified2:
-Non-Qualified4:
+Unregulated Check Card
+Tiered Rate Debit
+Qualified Rate
+Qualified Rate
+Mid Qualified Rate
+Mid Qualified Rate
+Non-Qualified Rate
+Non-Qualified Rate
+Regulated Check Card
 Regulated Check Card
 Unregulated Check Card
-Tiered Authorization Amex
-Qualified1:
-Mid-Qualified2:
-Non-Qualified4:
-Regulated Check Card
 Unregulated Check Card
-Tiered Authorization Discover
-Qualified1:
-Mid-Qualified2:
-Non-Qualified4:
-Regulated Check Card
-Unregulated Check Card
-Tiered Authorization DEBIT
-Qualified1:
-Mid-Qualified2:
-Non-Qualified4:
-Regulated
-Unregulated
-Flat Pricing
-Flat Rate
-Flat Authorizations
-Bundled Pricing
-Bundled Rate
-Bundled Authorizations
 Cash Discount Pricing
-Cash Discount Rate
-Cash Discount Fee
-Bank Sponsor Fee
-Amex Sponsor Fee
-Batch Fees
-Chargebacks
-Reversal
-Retrievals
-Arbitration
-Per ACH Reject
-Ethoca Alert
-Verifi Alert
-Rapid Dispute Resolution (RDR)
-Verified by Visa
-MasterCard SecureCode
-Voice Auth’s
-Declines
-Refunds
-AVS
+Cash Discount Pricing Rate
+Cash Discount Pricing Authorizations
+Flat Pricing
+Flat Rate (5)
+Flat Authorizations
+
+Decline Recovery
+Recovery Fee
+TXN Fee
+Monthly fee
+Other
 Account Updater
 Setup (one time)
 Monthly
@@ -207,7 +183,7 @@ Network Monthly
 Per Transaction
 Gateway
 Gateway Name
-Setup (one time)
+Set Up (one time)
 Gateway Monthly
 Per Transaction
 Vault/Tokenization Monthly
@@ -216,29 +192,50 @@ Wireless Processing
 Setup (one time)
 Per Transaction
 Network Monthly Access
-Annual Fee
-Minimum Monthly Fee:
-Monthly Fee
- Online Portal Access
- PCI Compliance Fee
- PCI Non Compliance Fee
- Risk Analysis
- Web Monitoring
-POS Fee
-Terminal Fee
+
+Bank Sponsor Fee
+Amex Sponsor Fee
+Govt. Compliance
+PCI Non Compliance Fee/Mo
+PCI Compliance Fee/Mo
+Card Brand Registration
 Statement Fee
-Decline Recovery
-Recovery Fee
-TXN Fee
-Monthly fee
-Other
-Initial Here
+Minimum Monthly Fee
+Setup Fee
+Annual Fee
+Monthly Fee
+Monthly Registration Fee
+Verifi Alert
+Rapid Dispute Resolution
+Verified by Visa
+Ethoca Alert
+Mastercard SecureCode
+Web Monitoring
+Retrievals
+Chargebacks
+Reversal
+Pre-Arbitration
+Arbitration
+Risk Analysis
+Batch Fees
+Decline / TXN
+Refund / TNX
+AVS / TNX
+Voice Auth / TNX
+Online Portal Access/Mo.
+Terminal Fee
+POS Fee
+Per ACH Reject
+TIN Mis-Match / Mo
+
+Opt-out
 Name
 Title
+Sign Here
 Date
-Signature
-PG Sign here
 PG Name
+PG Title
+PG Sign Here
 PG Date
 
 
