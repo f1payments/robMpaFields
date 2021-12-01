@@ -1,0 +1,312 @@
+Field
+
+
+Relationship ID
+Representative Name
+Representative Number
+Authorizaiton Platform
+Referral Partner Number
+Referral Partner Name
+Doing Business As (DBA) Name
+Descriptor
+Telephone Number
+Fax Number
+Business Street Address
+City
+State
+ZIP Code
+Merchant Website (URL)
+Type of Products/Services Sold
+Years of Operations
+Legal Business Name (if different from above)
+Taxpayer Identification Number
+Primary Contact Name
+Primary Contact Email Address
+Billing Street Address (if different from above)
+City
+State
+ZIP Code
+Organizational Structure - Corporation
+Organizational Structure - LLC
+Organizational Structure - Sole Proprietor
+Organizational Structure - 501C
+Organizational Structure - Partnership
+Organizational Structure - Government/Municipality
+Public Company
+Stock Symbol
+Market
+Are you a seasonal business? (yes)
+Are you a seasonal business? (no)
+If yes, what are the months of operation of your business? (JAN)
+If yes, what are the months of operation of your business? (FEB)
+If yes, what are the months of operation of your business? (MAR)
+If yes, what are the months of operation of your business? (APR)
+If yes, what are the months of operation of your business? (MAY)
+If yes, what are the months of operation of your business? (JUN)
+If yes, what are the months of operation of your business? (JUL)
+If yes, what are the months of operation of your business? (AUG)
+If yes, what are the months of operation of your business? (SEP)
+If yes, what are the months of operation of your business? (OCT)
+If yes, what are the months of operation of your business? (NOV)
+If yes, what are the months of operation of your business? (DEC)
+Annual Total Volume
+AMEX OptBlue Monthly Porcessing volume
+Average Transaction Amount
+Highest Transaction Amount
+Average Monthly Volume
+Highest Monthly Volume
+EMV/Card Present Swiped (%)
+Telephone Order (%)
+eCommerce (%)
+First Name
+Last Name
+Date of Birth
+SSN
+Ownership %
+Home Street Address
+City
+State
+Zip Code
+Email Address
+Business Phone Number
+Mobile Number
+First Name
+Last Name
+Date of Birth
+SSN
+Ownership %
+Home Street Address
+City
+State
+Zip Code
+Email Address
+Business Phone Number
+Mobile Number
+Name on Bank Account
+Transit (ABA Routing) Number
+Account Number (Credits & Debits)
+Name on Bank Account (Debits only, if applicable)
+Transit (ABA Routing) Number (Debits only, if applicable)
+Account Number (Debits only, if applicable)
+Funding choices - Standard
+Funding choices - Next Day Funding
+Funding choices - Next Day Funding (per month)
+Funding choices - Same Day Money Express
+Funding choices - Same Day Money Express (per month)
+Visa Cards
+MasterCard Cards
+Discover Cards
+American Express OptBlue
+Debit Cards ONLY
+Pin Debit
+EBT Electronic Benefits Transfer
+
+American Express Retained/ESA
+Existing AMEX Merchant Number
+Per Transaction (American Express retained/ESA)
+FNS Number
+Per Transaction (Electronic Benefits Transfer)
+Per Transaction (PIN-based Debit Pricing)
+Additional Discount %
+Debit Monthly Access
+Existing WEX Merchant Number
+Per Transaction (WrightExpress)
+AMEX OptBlue Opt Out
+Interchange Plus Pricing
+Interchange Plus Rate
+Visa/MC Rate
+Amex Rate
+Discover Rate
+Interchange Plus Authorization
+Visa/MC Authorization
+Amex Authorization
+Discover Authorization
+Tiered Rate
+Tiered Rate Visa/MC
+Visa/MC Rate Qualified1:
+Visa/MC Rate Mid-Qualified2:
+Visa/MC Rate Non-Qualified4:
+Visa/MC Rate Regulated Check Card
+Visa/MC Rate Unregulated Check Card
+Tiered Rate Amex
+ Qualified1:
+ Mid-Qualified2:
+ Non-Qualified4:
+ Regulated Check Card
+ Unregulated Check Card
+Tiered Rate Discover
+Qualified1:
+Mid-Qualified2:
+Non-Qualified4:
+Regulated Check Card
+Unregulated Check Card
+Tiered Rate DEBIT
+Qualified1:
+Mid-Qualified2:
+Non-Qualified4:
+Regulated
+Unregulated
+Tiered Authorization Visa/MC
+Qualified1:
+Mid-Qualified2:
+Non-Qualified4:
+Regulated Check Card
+Unregulated Check Card
+Tiered Authorization Amex
+Qualified1:
+Mid-Qualified2:
+Non-Qualified4:
+Regulated Check Card
+Unregulated Check Card
+Tiered Authorization Discover
+Qualified1:
+Mid-Qualified2:
+Non-Qualified4:
+Regulated Check Card
+Unregulated Check Card
+Tiered Authorization DEBIT
+Qualified1:
+Mid-Qualified2:
+Non-Qualified4:
+Regulated
+Unregulated
+Flat Pricing
+Flat Rate
+Flat Authorizations
+Bundled Pricing
+Bundled Rate
+Bundled Authorizations
+Cash Discount Pricing
+Cash Discount Rate
+Cash Discount Fee
+Bank Sponsor Fee
+Amex Sponsor Fee
+Batch Fees
+Chargebacks
+Reversal
+Retrievals
+Arbitration
+Per ACH Reject
+Ethoca Alert
+Verifi Alert
+Rapid Dispute Resolution (RDR)
+Verified by Visa
+MasterCard SecureCode
+Voice Auth’s
+Declines
+Refunds
+AVS
+Account Updater
+Setup (one time)
+Monthly
+Per Update
+Mobile Processing
+Setup (one time)
+Per User
+Network Monthly
+Per Transaction
+Gateway
+Gateway Name
+Setup (one time)
+Gateway Monthly
+Per Transaction
+Vault/Tokenization Monthly
+Vault/Tokenization Per Transaction
+Wireless Processing
+Setup (one time)
+Per Transaction
+Network Monthly Access
+Annual Fee
+Minimum Monthly Fee:
+Monthly Fee
+ Online Portal Access
+ PCI Compliance Fee
+ PCI Non Compliance Fee
+ Risk Analysis
+ Web Monitoring
+POS Fee
+Terminal Fee
+Statement Fee
+Decline Recovery
+Recovery Fee
+TXN Fee
+Monthly fee
+Other
+Initial Here
+Name
+Title
+Date
+Signature
+PG Sign here
+PG Name
+PG Date
+
+
+
+
+F1 Application ID
+Legal Name
+Control Owner (Full Name and Title)
+DBA Names Used
+Owners/Principals > 10% (Full Name and Title)
+Affiliated Businesses
+Branch Locations
+General Business Overview
+Average annual Sales
+% sales to consumers
+% sales to other businesses
+Registered CRM Company
+CRM ID
+Fullfillment Company
+Customer Service
+Chargeback Mitigation Service
+Chargeback Mitigation Provider ID
+SSL Provider
+products/services will be sold/delivered in the following markets
+North America
+Europe
+Other Markets
+Return Policy
+Greater than 30 Days
+Less than 30 Days
+No Returns
+If No Returns, why are refunds not provided?
+Other return policy
+Refund % of total monthly sales
+Number of days to issue refund
+Do you refund 100% of the sale?
+If No Provide details
+When do you charge the customer?
+In the case where a product is shipped, is the shipment traceable?
+Is a delivery receipt requested?
+Normal Delivery time in Days
+Do you take advance deposits ?
+If Yes, what % of the final price is paid as a deposit?
+If Yes, What fixed $ deposit is taken?
+Product Warehouse Address
+Product Warehouse Address 2
+Product Warehouse City
+Product Warehouse State
+Product Warehouse Zipcode
+Product Warehouse Country
+Do you own the product/inventory at the time of sale?
+ Are there any other companies involved in accepting, shipping, or fulfilling the service or product or the billing of the customer?
+If Yes provide name role and address for each.
+Do you take payments for memberships, subscriptions, or packages?
+IF YES, please provide the usual breakdown of transactions (by % of total sales) and their respective price points.
+If packages or memberships are sold, what is the average number of days it takes a customer to use up their package?
+Is your business or any of the affiliated businesses the manufacturer of any of the products sold
+Subscription consumer cancel Methods
+sales and checkout process
+scientific studies or other evidence
+Do you sell any products with the following ingredients?
+If Yes provide the names of the products
+Has your business/ownership been sued (individual or class action)?
+Has your business/ownership been  investigated?
+Has your business/ownership been subject to any regulatory actions by a federal or state regulatory body in the last five years?
+
+Company
+Signature
+Name
+Title
+Date
